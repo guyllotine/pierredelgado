@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Welcome to the personal academic website of Pierre Delgado.
+
+![Cockatoo]({{ site.baseurl }}/images/cockatoo.PNG)
